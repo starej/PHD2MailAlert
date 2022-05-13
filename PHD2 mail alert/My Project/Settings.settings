@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SMTPuser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SMTPpass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SMTPserver" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="subject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PHD2 guding error</Value>
+    </Setting>
+    <Setting Name="messageBody" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I tried my best, but somehow I lost the guide star!
+Your attention is needed!</Value>
+    </Setting>
+    <Setting Name="ssloption" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SSL/TLS</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
